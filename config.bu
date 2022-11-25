@@ -1,0 +1,13 @@
+variant: fcos
+version: 1.0.0
+passwd:
+  users:
+  - name: core
+    ssh_authorized_keys:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM0zSKXIvQuBVMP/0xCjU09nNAJAGHgEtbBExOX8FNT/"
+  - name: atlas
+    ssh_authorized_keys:
+    - "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM0zSKXIvQuBVMP/0xCjU09nNAJAGHgEtbBExOX8FNT/"
+    password_hash: "$y$j9T$vZ8.hUld7sy1cv4Gmdic8/$8tpXgn9pPkp7J9jLMrcTeyXFDO4rDKBUfueZwz9WUJ5"
+    groups:
+    - wheel
