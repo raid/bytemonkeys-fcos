@@ -7,7 +7,8 @@
       {
         "name": "core",
         "sshAuthorizedKeys": [
-          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM0zSKXIvQuBVMP/0xCjU09nNAJAGHgEtbBExOX8FNT/"
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM0zSKXIvQuBVMP/0xCjU09nNAJAGHgEtbBExOX8FNT/",
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEMZr6Iqq+9jASQcPBWnM5Cbqn5Sn7kTFzHE48ebXzXZ"
         ]
       },
       {
@@ -17,7 +18,8 @@
         "name": "atlas",
         "passwordHash": "$y$j9T$vZ8.hUld7sy1cv4Gmdic8/$8tpXgn9pPkp7J9jLMrcTeyXFDO4rDKBUfueZwz9WUJ5",
         "sshAuthorizedKeys": [
-          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM0zSKXIvQuBVMP/0xCjU09nNAJAGHgEtbBExOX8FNT/"
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM0zSKXIvQuBVMP/0xCjU09nNAJAGHgEtbBExOX8FNT/",
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEMZr6Iqq+9jASQcPBWnM5Cbqn5Sn7kTFzHE48ebXzXZ"
         ]
       }
     ]
